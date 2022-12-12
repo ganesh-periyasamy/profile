@@ -10,14 +10,14 @@ _Having 18+ years of experience in Software Development, Architecture and Busine
 **Advisory System Analyst** @ [IBM](https://www.ibm.com/) _(April 2010 - Present)_
 
   - Working as IT Business analyst (from Sep-2018 to present) for the Risk department applications with a Private bank in Geneva, Switzerland.
-    -- Involved in major enhancements such as LIBOR transition and FRTB projects. 
-    -- Worked closely with the Business and the Technical teams to deliver the business solutions.
+    - Involved in major enhancements such as LIBOR transition and FRTB projects. 
+    - Worked closely with the Business and the Technical teams to deliver the business solutions.
   - Worked as Application Architect (from Jun 2014 - Jul 2018) for a Reinsurance organization in Munich, Germany.
-        -- Responsible for overall technical design and end-to-end delivery of projects in Agile methodology.
+    - Responsible for overall technical design and end-to-end delivery of projects in Agile methodology.
   - Worked as Technical Lead for the entire portfolio (from Jul 2017 - Jul 2018).
-         -- Responsible for technical design decisions, proposing alternatives for the applications across the portfolio.
+    - Responsible for technical design decisions, proposing alternatives for the applications across the portfolio.
   - Worked as Senior Software Developer and Dev Lead (from Sep 2010 - Jun 2014).
-         -- Responsible for coding, unit testing, code review, deployments, iteration planning and execution.
+    - Responsible for coding, unit testing, code review, deployments, iteration planning and execution.
   - Having Onsite exposure with Swiss and Germany clients. 
 
   - **_Technologies used:_** C# .Net, Powershell, VB.Net, VC++.Net, VC++ 6.0, VB 6.0, JavaScript, TypeScript, WPF, WCF, Winforms, Dependency Injection.

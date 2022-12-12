@@ -1,4 +1,6 @@
 
+## Ganesh Periyasamy
+
 _Having 18+ years of experience in Software Development, Architecture and Business analysis._
 
 [Email](mailto:ganesh.periyasamy@nallenthal.in) / [LinkedIn](https://www.linkedin.com/in/ganesh-periyasamy/) / [GitHub](https://github.com/ganesh-periyasamy/) / [DEV](https://dev.to/ganeshperiyasamy/)

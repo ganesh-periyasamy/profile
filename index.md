@@ -1,5 +1,5 @@
 
-## Ganesh Periyasamy
+** Ganesh Periyasamy **
 
 _Having 18+ years of experience in Software Development, Architecture and Business analysis._
 

@@ -16,6 +16,7 @@ _Having 18+ years of experience in Software Development, Architecture and Busine
   - Worked as Technical Lead for the portfolio.
          -- Responsible for technical design decisions, proposing alternatives for the applications across the portfolio.
   - Having Onsite exposure with Swiss and Germany clients. 
+
   - **_Technologies used:_** C# .Net, Powershell, VB.Net, VC++.Net, VC++ 6.0, VB 6.0, JavaScript, TypeScript, WPF, WCF, Winforms, Dependency Injection.
   - **_Databases used:_** Oracle 12c, SQL Server 2019, Sybase ASE 15.7 and MongoDb 5.0.
   - **_ORM Tools:_** Entity Framework 5.0 and Telerik OpenAccess ORM. 
@@ -28,6 +29,7 @@ _Having 18+ years of experience in Software Development, Architecture and Busine
  - Responsible for extracting business rules from existing project’s source code.
  - Documenting the business rules for implementing them in newer technologies.
  - Worked closely with Business Analysts and Development team.
+
  - **_Technologies used:_** JavaScript, ASP.NET, Classic ASP, WCF.
 
 **Systems Engineer** @ [Polaris Software Lab Limited (now Virtusa-Polaris)](https://www.virtusa.com/) _(Aug 2004 - Dec 2009)_ 

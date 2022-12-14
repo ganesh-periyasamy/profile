@@ -1,4 +1,4 @@
-# Ganesh Periyasamy <img align=right src="./blob/e82e0b583b627ad8ce46c0b031764a379bed046e/image4.jpeg" height = 200 width = 300/>
+# Ganesh Periyasamy <img align=right src="https://github.com/ganesh-periyasamy/profile/blob/e82e0b583b627ad8ce46c0b031764a379bed046e/image4.jpeg" height = 200 width = 300/>
 
 
 

@@ -7,6 +7,9 @@ _IT Business Analyst, having 18+ years of experience in Software Development, Ar
 
 [Email](mailto:ganesh.periyasamy@nallenthal.in) / [LinkedIn](https://www.linkedin.com/in/ganesh-periyasamy/) / [GitHub](https://github.com/ganesh-periyasamy/) / [DEV](https://dev.to/ganeshperiyasamy/)
  📞 [+41 779430054](tel:+41779430054)
+ 
+ 
+ <br/>
 ## 🧑‍💼 Work Experience
 
 **Advisory System Analyst** @ [IBM](https://www.ibm.com/) _(April 2010 - Present)_

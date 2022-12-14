@@ -1,5 +1,7 @@
+# Ganesh Periyasamy <img align=right src="/image4.jpeg" height = 200 width = 300/>
 
-# Ganesh Periyasamy
+
+
 
 _IT Business Analyst, having 18+ years of experience in Software Development, Architecture and Business analysis._
 

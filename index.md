@@ -1,4 +1,4 @@
-# Ganesh Periyasamy <img align=right src="/image4.jpeg" height = 200 width = 300/>
+# Ganesh Periyasamy <img align=right src="./image4.jpeg" height = 200 width = 300/>
 
 
 
